@@ -91,4 +91,8 @@ To run the project locally, follow these steps:
 
     PORT=5000
     ```
+5. Start the project:
+    ```bash
+    npm run dev
+    ```
     
