@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Task Manager is a web application designed to help users efficiently organize and manage their tasks. It supports full CRUD operations (Create, Read, Update, Delete).
+The Taskly is a web application designed to help users efficiently organize and manage their tasks. It supports full CRUD operations (Create, Read, Update, Delete).
 
 The application is built with a **MERN** stack.
 
